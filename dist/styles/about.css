@@ -1,10 +1,10 @@
-$cut: 768px;
-
 #about {
   width: 90%;
   margin: 0 auto;
   max-width: 960px;
-  @media only screen and (min-width: $cut) {
+}
+@media only screen and (min-width: 768px) {
+  #about {
     width: 80%;
   }
 }
@@ -32,11 +32,12 @@ $cut: 768px;
   flex-direction: column;
   flex-wrap: wrap;
   justify-content: space-between;
-  p {
-    font-size: 16px;
-  }
-
-  @media only screen and (min-width: $cut) {
+}
+.user p {
+  font-size: 16px;
+}
+@media only screen and (min-width: 768px) {
+  .user {
     flex-wrap: nowrap;
     font-size: 75px;
   }
@@ -46,3 +47,5 @@ $cut: 768px;
   text-align: center;
   margin: 5px auto;
 }
+
+/*# sourceMappingURL=about.css.map */
