@@ -1,17 +1,17 @@
 # Site settings
-title: Arthur F Portfolio
+title: Arcadius | The Fullstack Dev
 description: Fullstack Developer
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Arthur Fernandez
-user_description: As a Fullstack Developer, I combine creativity with technical skill to create seamless digital experiences. Passionate about both front-end design and back-end efficiency, I strive to build intuitive interfaces and robust architectures. I'm deeply committed to exploring new technologies, constantly enhancing my skills to bring innovative solutions to the forefront. My portfolio is a testament to my journey, showcasing a unique blend of artistic vision and technical expertise, making every digital interaction functional and engaging.
-user_title: Software Developer
-email: arthur@ocomni.com
-twitter_username: lorem_ipsum
-github_username: lorem_ipsum
-gplus_username: lorem_ipsum
+username: Arcadius
+user_description: With five years in frontend and two in backend development, I craft webpages from Figma designs using JavaScript, NextJS, React, and TailwindCSS, along with a suite of libraries. On the backend, I'm skilled in MySQL, Node, Express, and leverage tools like Prisma, PlanetScale, Firebase, among others, to build robust solutions.
+user_title: Fullstack Developer
+email: arthur.fernandez@ocomni.com
+# twitter_username: lorem_ipsum
+# github_username: lorem_ipsum
+# gplus_username: lorem_ipsum
 
 # Google-analytics
 google-analytics:
